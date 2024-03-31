@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    padding: 20px;    
+  }
+  
+  .card {    
+    margin-bottom: 20px; /* Adicione algum espaço entre os cards */
+  }
