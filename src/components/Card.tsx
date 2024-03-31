@@ -77,8 +77,8 @@ const Card = () => {
               <h5 className="card-title">{item.name}</h5>
               <p className="card-text">{item.description}</p>
               <p className="card-text">{item.price}</p>
-              <a href="#" className="btn btn-primary">
-                Go somewhere
+              <a href="#" className="btn btn-info">
+                Clique
               </a>
             </div>
           </div>

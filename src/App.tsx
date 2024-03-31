@@ -25,7 +25,7 @@ const App = () => {
     <>
       <CardProvider>
         <Navbar />
-        <Carousel/>
+        <Carousel/>        
         <Card />
         <Footer />
       </CardProvider>

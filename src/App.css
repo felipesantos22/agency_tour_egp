@@ -8,3 +8,7 @@
   .card {    
     margin-bottom: 20px; /* Adicione algum espaço entre os cards */
   }
+
+  select {
+    margin: 20px;
+  }
